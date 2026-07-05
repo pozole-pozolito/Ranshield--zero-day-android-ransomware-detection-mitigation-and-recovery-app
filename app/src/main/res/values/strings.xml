@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RANSHIELD</string>
+    <string name="accessibility_service_description">Monitors app installations for security purposes.</string>
+</resources>
